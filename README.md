@@ -4,7 +4,7 @@ Implements some methodes to check topics for subscrition in mqtt.
 
 ## Source
 
-It follow the source code from mosquitto published at
+It follows the source code from mosquitto published at
 https://github.com/iosphere/mosquitto/blob/master/lib/util_mosq.c
 and implements it as a class in C#.
 
