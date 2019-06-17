@@ -1,6 +1,6 @@
 # mqttverification
 
-Implements some methodes to check topics for subscrition in mqtt.
+Implements some methods to check topics for subscrition in mqtt.
 
 ## Source
 
